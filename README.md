@@ -20,4 +20,4 @@ ML engineer and data scientist focused on taking models from raw data to systems
 - **Analytics:** Pandas, NumPy, Power BI, Tableau
 
 ### Connect
-[LinkedIn](https://www.linkedin.com/in/husnaa2000) · khusnaaanwar@gmail.com
+[LinkedIn](https://www.linkedin.com/in/husnaa2000)
